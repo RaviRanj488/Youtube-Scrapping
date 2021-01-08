@@ -36,5 +36,5 @@ print('Number of Subscibers:', Subscribers)
 print('View count for video:', View_count)
 print('Likes:',Likes,'  ','Dislikes:',Dislikes)
 
-with open('vfile.json', 'w', encoding='utf8') as ou:
-    json.dump(Vid, ou, ensure_ascii=False)
+
+
